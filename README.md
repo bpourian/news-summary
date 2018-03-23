@@ -1,9 +1,11 @@
 # News Summary - Guardian News Paper
 
-## Built in
+## Tech Stack
 
-• Vanilla JavaScript
-• Tested in Jasmine
+• JavaScript
+• Node.js
+• Express.js
+• Tested in Mocha
 
 ## Application Summary
 
