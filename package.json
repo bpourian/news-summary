@@ -4,16 +4,18 @@
   "description": "This app works with guardian api to display headlines in a node.js app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "npm": "^5.7.1"
   },
   "devDependencies": {
     "chai": "^4.1.2",
-    "mocha": "^5.0.5"
+    "mocha": "^5.0.5",
+    "request": "^2.85.0"
   },
   "repository": {
     "type": "git",
