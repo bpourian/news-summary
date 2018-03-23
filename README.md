@@ -9,7 +9,7 @@
 
 - This app allows you to read the news headlines from Guardian new API
 - It is a Test Driven Development project
-- Automated testing in Jasmine
+- Automated testing in Mocha/Chai
 - Also used continuous integration using Travis
 
 # User Stories
